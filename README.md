@@ -94,7 +94,7 @@ Average Rating Across Genres Over the Years: Drama, comedy and musical received 
 
 ## Links to project resources
 * Presentation - https://github.com/Sammywarah/Movies-Recommendation-System/blob/main/Presentation.pdf
-* Data - 
+* Data - https://github.com/Sammywarah/Movies-Recommendation-System/blob/main/Phase%204_Project%20.ipynb
 * README - https://github.com/Sammywarah/Movies-Recommendation-System/blob/main/README.md
 
 ## Repository Structure
