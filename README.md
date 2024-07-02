@@ -16,6 +16,9 @@ Showmax aims to enhance user engagement and satisfaction by improving its movie 
 
 Showmax has tasked RMX Consultancy to enhance its competitive edge against competitors such as Netflix by implementing a personalized movie recommendation system. The goal is to recommend the top 5 movies to users based on their ratings and viewing history, leveraging collaborative filtering techniques to deliver a superior viewing experience.
 
+## Objective
+The objective of this project is to develop a personalized recommendation system to enhance user engagement and satisfaction on Showmax.
+
 
 ## Data
 * This dataset (ml-latest-small) describes 5-star rating and free-text tagging activity from [MovieLens](http://movielens.org), a movie recommendation service. 
