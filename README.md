@@ -93,8 +93,8 @@ Average Rating Across Genres Over the Years: Drama, comedy and musical received 
 6. *Monitor and Retrain:* Regularly tune and evaluate the recommendation models with new data to ensure they adapt to changing user preferences and movie trends. This will help maintain the accuracy and relevance of recommendations.
 
 ## Links to project resources
-* Presentation - https://github.com/ruth-karimi/Movies-Recommendation-System/blob/main/Movie%20Recommendation%20System.pdf
-
+* Presentation - https://github.com/Sammywarah/Movies-Recommendation-System/blob/main/Presentation.pdf
+* Data - 
 * README - https://github.com/Sammywarah/Movies-Recommendation-System/blob/main/README.md
 
 ## Repository Structure
