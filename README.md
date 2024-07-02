@@ -50,6 +50,15 @@ The objective of this project is to develop a personalized recommendation system
 * Contains identifiers to link to other movie databases.
 * Format: movieId,imdbId,tmdbId.
 * movieId corresponds to MovieLens, imdbId to IMDb, and tmdbId to The Movie Databases
+
+## Project Structure
+
+## Summary of Data Science Steps
+1. **Data Preparation**: Loading and preparing the dataset for the recommendation system.
+2. **Model Training**: Training the KNNWithMeans model using the Pearson similarity metric.
+3. **Predictions**: Making predictions for movie ratings and recommending top N movies for users.
+4. **Model Evaluation**: Evaluating the model performance using Root Mean Squared Error (RMSE).
+5. **Tuned Model**: Implementing a tuned KNNBaseline model for better prediction accuracy.
    
 ## Results
 
