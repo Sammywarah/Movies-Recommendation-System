@@ -94,9 +94,8 @@ Average Rating Across Genres Over the Years: Drama, comedy and musical received 
 
 ## Links to project resources
 * Presentation - https://github.com/ruth-karimi/Movies-Recommendation-System/blob/main/Movie%20Recommendation%20System.pdf
-* Code - 
-* Data -
-* README - https://github.com/ruth-karimi/Movies-Recommendation-System/edit/main/README.md
+
+* README - https://github.com/Sammywarah/Movies-Recommendation-System/blob/main/README.md
 
 ## Repository Structure
 <img width="332" alt="image" src="https://github.com/ruth-karimi/Real-Estate-Renovations/assets/24277899/f59c8eb3-42e1-472c-a6d0-25912326997e">
